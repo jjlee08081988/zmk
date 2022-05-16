@@ -1,0 +1,12 @@
+file_format: "1"
+id: yampad
+name: Yampad
+type: shield
+url: https://customkbd.com/products/yampad-kit
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - encoder
+  - underglow
